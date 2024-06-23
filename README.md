@@ -1,1 +1,1 @@
-Click the FINALSPROJECT.html to view the final project
+Click the FINALS_PROJECT.html to view the final project
